@@ -12,6 +12,18 @@
                                  • DOCENTE: DARWIN OMAR ALULEMA FLORES
                                  • CORREO ELECTRÓNICO INSTITUCIONAL DEL DOCENTE: doalulema@espe.edu.ec
 
+OBJETIVO GENERAL
+
+ * Resolver circuitos con varias mallas y fuentes.
+ 
+ * Identificar la correinte que pasa por cada malla aplicando las ley de corrientes de kirchhoff
+ 
+OBJETIVO ESPECIFICO 
+
+* Analizar el circuto aplicando los teoremas anteriormente estudiados 
+
+* Emplear el simulador para la realizacion del laboratorio
+
 MARCO TEORICO
 
 ANALISIS DE MALLAS
@@ -87,10 +99,10 @@ TABLA DE DATOS
  
 LINK DEL VIDEO
 
+
 CONCLUSIONES
 
-En este laboratorio realizado de manera “virtual” se pudo apreciar que los errores calculados se deben a que los componentes utilizados para el 
-armado de circuitos no cuentan con alguna resistencia real, en el caso de las resistencias no cuentan con una tolerancia, la cual en la realidad causa una notable variación
+Se logro verificar exitosamente los metodos de analisis de los circuitos con ayuda del simulador siendo este de vital importancia para la realizacion del informe atraves de la practica de laboratorio se pudo conprobar el comportamiento de las corrientes y voltajes dentro de un circuito siempre y cuando las ecuaciones esten bien planteadas.
 
 BIBLIOGRAFIAS 
 
